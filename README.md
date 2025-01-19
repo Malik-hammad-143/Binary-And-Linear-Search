@@ -143,4 +143,4 @@ By analyzing the differences between the two algorithms, I have gained insights 
 
 ### LinkedIn
 
-Here is my [LinkedIn post's link](#) showcasing this project!
+ here is my[https://www.linkedin.com/posts/malik-hammad-7bb977347_algorithms-programming-github-activity-7286716528509571072-SBIw?utm_source=share&utm_medium=member_android]showcasing this project!
